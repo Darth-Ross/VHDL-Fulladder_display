@@ -8,3 +8,7 @@ The software used for this project is Vivado 2014.3 and the configuration is mad
 The source files are located in [projectname].srcs/sources.
 
 You may use the source files in your own project or use the project itself as you see fit.
+
+**Specifications** 
+
+This project also includes a binary to BCD converter and a BCD to 7-segment decoder.
